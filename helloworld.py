@@ -1,1 +1,1 @@
-echo print("Hello, GitHub!") > hello.py
+print("Hello World")
